@@ -28,13 +28,18 @@ Aligns the original reads to the final assembly by using the Burrows-Wheeler Ali
 
 ## gtdb.sh
 
-Launches GTDB-Tk on a HPC cluster.
+Launches GTDB-Tk on a HPC cluster with the results from Metabat2 and CheckM2.
 
 ## merger_launcher.sh
 
+Launches the results_merger.py program for each species.
 
 ## move_fas.sh
 
+Organises original fasta files into coherent directories and subdirectories, following:
+
+<img width="1902" height="1275" alt="files" src="https://github.com/user-attachments/assets/e70adbb9-45ae-41e5-8c83-704567443713" />
 
 ## results_merger.py
 
+Merges the results obtained by each of the tools used in the proposed workflow.
