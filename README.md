@@ -38,7 +38,7 @@ Launches the results_merger.py program for each species.
 
 Organises original fasta files into coherent directories and subdirectories, following:
 
-<img width="1902" height="1275" alt="files" src="https://github.com/user-attachments/assets/e70adbb9-45ae-41e5-8c83-704567443713" />
+<img width="600" alt="files" src="https://github.com/user-attachments/assets/e70adbb9-45ae-41e5-8c83-704567443713" />
 
 ## results_merger.py
 
